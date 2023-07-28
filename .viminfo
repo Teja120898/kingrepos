@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1690532305,,"wq!"
+|2,0,1690541832,,"wq!"
 :qa
 |2,0,1690431837,,"qa"
 
@@ -27,32 +27,42 @@
 # Registers:
 
 # File marks:
-'0  7  23  ~/rajfile
-|4,48,7,23,1690532305,"~/rajfile"
-'1  6  32  ~/rajfile
-|4,49,6,32,1690531722,"~/rajfile"
+'0  4  36  ~/myfile
+|4,48,4,36,1690541832,"~/myfile"
+'1  7  23  ~/rajfile
+|4,49,7,23,1690532305,"~/rajfile"
 '2  6  32  ~/rajfile
 |4,50,6,32,1690531722,"~/rajfile"
-'3  1  0  ~/myfile
-|4,51,1,0,1690531681,"~/myfile"
-'4  1  0  ~/.gitignore
-|4,52,1,0,1690530788,"~/.gitignore"
+'3  6  32  ~/rajfile
+|4,51,6,32,1690531722,"~/rajfile"
+'4  1  0  ~/myfile
+|4,52,1,0,1690531681,"~/myfile"
 '5  1  0  ~/myfile
-|4,53,1,0,1690530559,"~/myfile"
-'6  2  5  ~/.gitignore
-|4,54,2,5,1690530045,"~/.gitignore"
-'7  1  12  ~/.gitignore
-|4,55,1,12,1690456461,"~/.gitignore"
-'8  2  5  ~/.gitignore
-|4,56,2,5,1690456461,"~/.gitignore"
-'9  1  6  ~/.gitignore
-|4,57,1,6,1690455966,"~/.gitignore"
+|4,53,1,0,1690531681,"~/myfile"
+'6  1  0  ~/.gitignore
+|4,54,1,0,1690530788,"~/.gitignore"
+'7  1  0  ~/myfile
+|4,55,1,0,1690530559,"~/myfile"
+'8  1  0  ~/myfile
+|4,56,1,0,1690530559,"~/myfile"
+'9  2  5  ~/.gitignore
+|4,57,2,5,1690530045,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  4  36  ~/myfile
+|4,39,4,36,1690541832,"~/myfile"
+-'  1  0  ~/myfile
+|4,39,1,0,1690541799,"~/myfile"
+-'  7  23  ~/rajfile
+|4,39,7,23,1690532305,"~/rajfile"
 -'  7  23  ~/rajfile
 |4,39,7,23,1690532305,"~/rajfile"
 -'  6  32  ~/rajfile
 |4,39,6,32,1690532276,"~/rajfile"
+-'  6  32  ~/rajfile
+|4,39,6,32,1690532276,"~/rajfile"
+-'  6  32  ~/rajfile
+|4,39,6,32,1690531722,"~/rajfile"
 -'  6  32  ~/rajfile
 |4,39,6,32,1690531722,"~/rajfile"
 -'  1  0  ~/myfile
@@ -79,6 +89,22 @@
 |4,39,1,0,1690530788,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1690530788,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1690530788,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1690530788,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1690530788,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1690530788,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1690530788,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1690530788,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1690530788,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1690530788,"~/.gitignore"
 -'  1  0  ~/myfile
 |4,39,1,0,1690530559,"~/myfile"
 -'  1  0  ~/myfile
@@ -128,6 +154,66 @@
 -'  2  5  ~/.gitignore
 |4,39,2,5,1690530045,"~/.gitignore"
 -'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690530045,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
 |4,39,2,5,1690456461,"~/.gitignore"
 -'  2  5  ~/.gitignore
 |4,39,2,5,1690456461,"~/.gitignore"
@@ -159,98 +245,19 @@
 |4,39,2,5,1690456461,"~/.gitignore"
 -'  2  5  ~/.gitignore
 |4,39,2,5,1690456461,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690456434,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
--'  1  6  ~/.gitignore
-|4,39,1,6,1690455966,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1690456461,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/myfile
+	*	1690541825	0
+	"	4	36
+	^	4	37
+	.	4	36
+	+	4	36
 
 > ~/rajfile
 	*	1690532301	0
@@ -260,10 +267,6 @@
 	+	5	38
 	+	6	32
 	+	7	23
-
-> ~/myfile
-	*	1690531678	0
-	"	1	0
 
 > ~/.gitignore
 	*	1690530784	0
